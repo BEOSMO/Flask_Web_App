@@ -1,0 +1,23 @@
+Basics
+Subscription
+Essai gratuit
+Resource group
+ob_group
+Server name
+jedha-bootcamp-postgresql
+Data source
+None
+Server admin login name
+oslane_b
+Location
+France Central
+Version
+10
+Compute + storage
+Basic, Gen5, 2 vCores, 5 GB Storage
+Backup retention period
+7 day(s)
+Backup redundancy
+Locally redundant
+Storage Auto Grow
+Enabled
